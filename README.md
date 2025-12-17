@@ -39,7 +39,7 @@ The `--brightness-max 0.6` filter excludes bright pixels (the sky), keeping only
 Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/nicholaschenai/pano2points.git
+git clone https://github.com/yz3440/pano2points.git
 cd pano2points
 uv sync
 ```
