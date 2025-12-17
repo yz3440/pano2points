@@ -1,0 +1,21 @@
+[project]
+name = "pano2points"
+version = "0.1.0"
+description = "Convert equirectangular panoramas to dithered point clouds for laser engraving"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=10.0.0",
+    "numpy>=1.26.0",
+    "streetlevel>=0.10.0",
+]
+
+[project.scripts]
+pano2points = "pano2points.pointcloud_cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pano2points"]
