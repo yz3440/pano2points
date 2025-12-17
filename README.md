@@ -10,6 +10,10 @@ Engraved Washington Square Park (NYC) panorama inside K9 crystal using an [xTool
 | ----------------------------------------- | ----------------------------------------- |
 | ![Zoom 2 engraving](assets/v1-image.jpeg) | ![Zoom 3 engraving](assets/v2-image.jpeg) |
 
+This project was created for [How to Make (Almost) Anything](https://fab.cba.mit.edu/classes/863.25/) at MIT, Fall 2025.
+
+**Full documentation:** [Week 14 - Glass Engraving with UV Laser](https://fab.cba.mit.edu/classes/863.25/people/YufengZhao/projects/week-14-glass-engraving-with-uv-laser/)
+
 ---
 
 ## Quick Start
