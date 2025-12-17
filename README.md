@@ -4,7 +4,7 @@ Convert Google Street View panoramas to dithered point clouds for subsurface las
 
 ## Project Showcase
 
-Engraved Washington Square Park (NYC) panorama inside K9 crystal using an xTool F2 Ultra UV laser.
+Engraved Washington Square Park (NYC) panorama inside K9 crystal using an [xTool F2 Ultra UV laser](https://www.xtool.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?srsltid=AfmBOoqMkQ88YfzNeUakmWhsAcRZ5apIH7uuYaBpR1aWdtui5G5m7yqY).
 
 | Zoom 2 (2048×1024, ~158k points)          | Zoom 3 (4096×2048, ~630k points)          |
 | ----------------------------------------- | ----------------------------------------- |
